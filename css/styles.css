@@ -1,0 +1,45 @@
+html {
+  font-family:sans-serif
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+  color: #006600;
+  text-align: center;
+}
+
+h2 {
+  color: #00b200;
+  font-style: italic;
+  text-align: center;
+}
+
+h3.center {
+  text-align: center;
+}
+
+ul {
+  line-height: 30px;
+}
+
+ul.center {
+  text-align: center;
+}
+
+ol {
+  line-height: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+p.center {
+    text-align: center;
+}
